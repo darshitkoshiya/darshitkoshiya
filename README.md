@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Darshit Koshiya 👋
 
-<!--
-**darshitkoshiya/darshitkoshiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an independent developer focusing on **AI workflow automation**, **custom AI agents**, and **LLM integrations**. 
 
-Here are some ideas to get you started:
+I build practical systems designed to eliminate repetitive manual processes and integrate intelligent models into real-world business workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Focus & Tech Stack
+- **AI & LLMs:** OpenAI API, Anthropic API, Prompt Architecture, RAG Pipelines
+- **Automation & Integrations:** Python, REST APIs, n8n, Make
+- **Development:** Python, Git, Docker basics
+
+---
+
+### 📂 What I'm Currently Building
+- Custom AI agent workflows for multi-step task execution
+- Automated business pipeline integrations
+- Practical documentation and open-source starter templates
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/darshitkoshiya](https://linkedin.com/in/darshitkoshiya)
+- **X (Twitter):** [@darshitkoshiya](https://x.com/darshitkoshiya)
+- **Email:** `darshitkoshiya.work@gmail.com`
